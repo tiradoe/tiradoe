@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm not as active on GitHub anymore as I've moved over to a self hosted git repository at [my Forgejo instance](https://edbuildsthings.com/tiradoe).  I'll keep a few things synced here though!
+I'm not as active on GitHub anymore as I've moved over to a self hosted git repository at [my Forgejo instance](https://edbuildsthings.com/tiradoe).  I'll keep a few things mirrored here though!
 
 - Ed
 <!--
