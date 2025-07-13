@@ -1,7 +1,4 @@
 ### Hi there 👋
-I'm not as active on GitHub anymore as I've moved over to a self hosted git repository at [my Forgejo instance](https://edbuildsthings.com/tiradoe).  I'll keep a few things mirrored here though!
-
-- Ed
 <!--
 **tiradoe/tiradoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
